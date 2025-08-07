@@ -71,10 +71,11 @@ src/
 ```
 
 ## 🔗 Backend Repository
+**https://github.com/Sala3ni/LINKEDIN-backend**
 
-This frontend connects to: [LinkedIn Backend](https://github.com/yourusername/linkedin-backend)
+
 
 ## 👨💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+*saloni mishra*
+
